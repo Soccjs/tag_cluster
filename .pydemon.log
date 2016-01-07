@@ -1,0 +1,393 @@
+T: 2016-01-08 00:50:05 #1 Log
+soccjs
+hi ge-algorithm
+16
+T: 2016-01-08 00:50:18 #2 Log
+soccjs
+hi ge-algorithm
+16
+T: 2016-01-08 00:57:19 #3 Log
+soccjs
+hi ge-algorithm
+16
+2
+T: 2016-01-08 00:59:58 #4 Log
+Traceback (most recent call last):
+  File "ge-Al.py", line 2, in <module>
+    import queue
+ImportError: No module named queue
+T: 2016-01-08 01:09:34 #5 Log
+soccjs
+hi ge-algorithm
+16
+12
+T: 2016-01-08 01:13:23 #6 Log
+soccjs
+hi ge-algorithm
+16
+12
+['friend', 'airport', 'birthday', 'graduation', 'mom', 'university', 'cake', 'family', 'trip', 'vacation', 'school', 'food', 'coffee', 'flight', 'interview', 'restaurant']
+T: 2016-01-08 01:18:49 #7 Log
+soccjs
+hi ge-algorithm
+16
+10
+coffee
+mom
+graduation
+school
+T: 2016-01-08 01:19:33 #8 Log
+T: 2016-01-08 01:20:17 #8 Log
+soccjs
+hi ge-algorithm
+16
+15
+vacation
+restaurant
+mom
+trip
+mom
+graduation
+birthday
+airport
+cake
+birthday
+T: 2016-01-08 01:20:22 #9 Log
+soccjs
+hi ge-algorithm
+16
+4
+interview
+vacation
+graduation
+cake
+food
+flight
+coffee
+coffee
+interview
+friend
+T: 2016-01-08 01:25:31 #10 Log
+soccjs
+hi ge-algorithm
+16
+3
+15
+T: 2016-01-08 01:26:25 #11 Log
+soccjs
+hi ge-algorithm
+16
+3
+3
+15
+T: 2016-01-08 01:26:50 #12 Log
+soccjs
+hi ge-algorithm
+16
+5
+15
+15
+T: 2016-01-08 01:26:56 #13 Log
+soccjs
+hi ge-algorithm
+16
+15
+8
+15
+T: 2016-01-08 01:31:12 #14 Log
+  File "ge-Al.py", line 28
+    for i in range(0,split_n)
+                            ^
+SyntaxError: invalid syntax
+T: 2016-01-08 01:31:32 #15 Log
+  File "ge-Al.py", line 32
+    print len(A)
+               ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:33:50 #16 Log
+  File "ge-Al.py", line 32
+    print A.qsize()
+                  ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:34:00 #17 Log
+  File "ge-Al.py", line 32
+    print A.qsize
+                ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:35:56 #18 Log
+  File "ge-Al.py", line 32
+    print A.qsize()
+                  ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:37:00 #19 Log
+  File "ge-Al.py", line 32
+    print (A.qsize)
+                  ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:38:25 #20 Log
+  File "ge-Al.py", line 32
+    size = A.qsize()
+                   ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:42:13 #21 Log
+  File "ge-Al.py", line 32
+    size = len(A)
+                ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:44:24 #22 Log
+soccjs
+hi ge-algorithm
+16
+10
+<Queue.Queue instance at 0x7f9e54f97cf8>
+T: 2016-01-08 01:45:06 #23 Log
+  File "ge-Al.py", line 34
+    for item in A
+                ^
+SyntaxError: invalid syntax
+T: 2016-01-08 01:46:07 #24 Log
+soccjs
+hi ge-algorithm
+16
+8
+<Queue.Queue instance at 0x7f8c3c64fcf8>
+Traceback (most recent call last):
+  File "ge-Al.py", line 34, in <module>
+    for item in A:
+TypeError: iteration over non-sequence
+T: 2016-01-08 01:46:21 #25 Log
+soccjs
+hi ge-algorithm
+16
+14
+<Queue.Queue instance at 0x7f82d32c2cf8>
+mom
+birthday
+T: 2016-01-08 01:46:53 #26 Log
+  File "ge-Al.py", line 37
+    print A.empty()
+                  ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:47:06 #27 Log
+  File "ge-Al.py", line 37
+    print A.empty
+                ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:47:37 #28 Log
+  File "ge-Al.py", line 37
+    flag = A.empty()
+                   ^
+IndentationError: unindent does not match any outer indentation level
+T: 2016-01-08 01:49:01 #29 Log
+soccjs
+hi ge-algorithm
+16
+4
+food
+mom
+
+T: 2016-01-08 01:53:48 #30 Log
+soccjs
+hi ge-algorithm
+16
+3
+Traceback (most recent call last):
+  File "ge-Al.py", line 33, in <module>
+    for i in range(len(A)):
+AttributeError: Queue instance has no attribute '__len__'
+T: 2016-01-08 01:54:06 #31 Log
+soccjs
+hi ge-algorithm
+16
+11
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+T: 2016-01-08 01:54:51 #32 Log
+  File "ge-Al.py", line 33
+    for i in range(0,split_n)
+                            ^
+SyntaxError: invalid syntax
+T: 2016-01-08 01:55:00 #33 Log
+  File "ge-Al.py", line 34
+    print(A.get())i
+                  ^
+SyntaxError: invalid syntax
+T: 2016-01-08 01:55:08 #34 Log
+soccjs
+hi ge-algorithm
+16
+8
+airport
+family
+trip
+friend
+interview
+birthday
+coffee
+restaurant
+
+T: 2016-01-08 01:55:40 #35 Log
+soccjs
+hi ge-algorithm
+16
+('split_n', 5)
+flight
+school
+coffee
+birthday
+food
+
+T: 2016-01-08 01:56:05 #36 Log
+soccjs
+hi ge-algorithm
+16
+split_n 15
+school
+interview
+birthday
+coffee
+airport
+university
+restaurant
+food
+vacation
+family
+friend
+cake
+trip
+flight
+graduation
+
+T: 2016-01-08 01:57:43 #37 Log
+  File "ge-Al.py", line 32
+    for i in range(0,total_len-split_n)
+                                      ^
+SyntaxError: invalid syntax
+T: 2016-01-08 01:57:56 #38 Log
+soccjs
+hi ge-algorithm
+16
+split_n 13
+13 3
+T: 2016-01-08 01:59:15 #39 Log
+soccjs
+hi ge-algorithm
+16
+split_n 6
+6 10
+Traceback (most recent call last):
+  File "ge-Al.py", line 39, in <module>
+    print A.qsize(), B.qsize(), C.qsize()
+AttributeError: 'list' object has no attribute 'qsize'
+T: 2016-01-08 01:59:32 #40 Log
+soccjs
+hi ge-algorithm
+16
+split_n 1
+1 15 0
+T: 2016-01-08 02:15:06 #41 Log
+soccjs
+hi ge-algorithm
+16
+split_n 5
+5 11 0
+T: 2016-01-08 02:15:08 #42 Log
+soccjs
+hi ge-algorithm
+16
+split_n 9
+9 7 0
+T: 2016-01-08 02:15:46 #43 Log
+python: can't open file 'perl-test.py': [Errno 2] No such file or directory
+T: 2016-01-08 02:15:59 #44 Log
+perl-test
+T: 2016-01-08 02:18:18 #45 Log
+  File "perl-test.py", line 3
+    perl.eval(use WordNet::Similarity::jcn;)
+                        ^
+SyntaxError: invalid syntax
+T: 2016-01-08 02:18:52 #46 Log
+  File "perl-test.py", line 3
+    perl.eval(use WordNet::Similarity::jcn)
+                        ^
+SyntaxError: invalid syntax
+T: 2016-01-08 02:19:01 #47 Log
+perl-test
+Traceback (most recent call last):
+  File "perl-test.py", line 3, in <module>
+    perl.eval("use WordNet::Similarity::jcn")
+NameError: name 'perl' is not defined
+T: 2016-01-08 02:19:24 #48 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 1, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:28:37 #49 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 1, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:39:23 #50 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 1, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:41:25 #51 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 1, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:42:54 #52 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 3, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:44:29 #53 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 3, in <module>
+    import perl
+ImportError: No module named perl
+T: 2016-01-08 02:45:27 #54 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 3, in <module>
+    from perlmodule import perl
+ImportError: No module named perlmodule
+T: 2016-01-08 02:49:35 #55 Log
+Traceback (most recent call last):
+  File "perl-test.py", line 3, in <module>
+    from perlmodule import perl
+ImportError: No module named perlmodule
+T: 2016-01-08 02:52:04 #56 Log
+perl-test
+Traceback (most recent call last):
+  File "perl-test.py", line 6, in <module>
+    six = perl.eval("3+3");
+NameError: name 'perl' is not defined
+T: 2016-01-08 02:54:38 #57 Log
+perl-test
+Traceback (most recent call last):
+  File "perl-test.py", line 6, in <module>
+    six = perl.eval("3+3");
+NameError: name 'perl' is not defined
+T: 2016-01-08 02:54:46 #58 Log
+perl-test
+Traceback (most recent call last):
+  File "perl-test.py", line 6, in <module>
+    six = perl.eval("3+3");
+NameError: name 'perl' is not defined
+T: 2016-01-08 03:14:46 #59 Log
+perl-test
+Traceback (most recent call last):
+  File "perl-test.py", line 6, in <module>
+    six = perl.eval("3+3");
+NameError: name 'perl' is not defined
